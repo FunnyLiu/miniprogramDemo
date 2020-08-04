@@ -1,0 +1,2 @@
+# miniprogramDemo
+demo of miniprogram
